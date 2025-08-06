@@ -14,6 +14,14 @@
 - **Extras**: Basic Unity experience, version control, scripting
 
 
+## 🎤 Events & Activities
+
+- 🧠 Attended technical seminars hosted at the University of Ioannina
+- 🕹️ Participated in Unity Game Development workshops
+- 💼 Attended **Voxxed Days Greece** – developer conference focused on modern technologies and best practices
+- 📌 Took part in **Career Days** events, networking with tech companies and learning about job market trends
+
+
 ## 📂 Projects
 
 - [`password_locker.py`](https://github.com/nintaras/python-projects/blob/main/password_locker.py): A simple command-line password manager using file storage  
