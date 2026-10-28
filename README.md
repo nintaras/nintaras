@@ -1,48 +1,28 @@
-# 👋 Hi, I'm Nick Ntaras (nintaras)
+Hi, I'm Nikolaos Ntaras 
 
-🎓 I'm a 3rd-year Computer Science & Telecommunications student at the University of Ioannina (Greece)  
-🔐 Passionate about Cybersecurity, Networking, and System Programming  
-💻 I enjoy building practical tools in Python, C and more
-🌍 Open to internships or junior tech opportunities (remote or abroad)
+Final-year Informatics and Telecommunications student at the University of Ioannina, Greece.
 
+Interested in Artificial Intelligence, Machine Learning, and Computational Biology.
 
-## 🔧 Tech Stack & Tools
+I enjoy building Python-based projects, exploring data-driven methods, and developing reproducible software.
 
-- **Languages**: Python, C, Bash  
-- **Tools**: Git & GitHub, VS Code, Linux   
-- **Concepts**: File handling, network programming, basic CLI utilities  
-- **Extras**: Basic Unity experience, version control, scripting
+### Areas of Interest
+- Machine Learning and Deep Learning
+- Protein Sequence Analysis and Bioinformatics
+- Protein Language Models and Embeddings
+- Explainable AI (XAI)
+- Data Processing and Scientific Computing
 
+### Technologies
+- **Programming:** Python, C/C++
+- **Tools:** Git, GitHub, Linux
+- **Currently developing:** Machine Learning and Bioinformatics skills
 
-## 🎤 Events & Activities
+### Goals
+- Build practical AI and bioinformatics projects
+- Develop reproducible machine learning pipelines
+- Explore interpretable models for biological data
+- Contribute to research-oriented software projects
 
-- 🧠 Attended technical seminars hosted at the University of Ioannina
-- 🕹️ Participated in Unity Game Development workshops
-- 💼 Attended **Voxxed Days Greece** – developer conference focused on modern technologies and best practices
-- 📌 Took part in **Career Days** events, networking with tech companies and learning about job market trends
-
-
-## 📂 Projects
-
-- [`password_locker.py`](https://github.com/nintaras/python-projects/blob/main/password_locker.py): A simple command-line password manager using file storage  
-- More projects coming soon...
-
-
-
-## 📚 Education & Certifications
-
-- 🎓 BSc in Computer Science & Telecommunications – University of Ioannina *(ongoing, 3rd year)*  
-- 🇬🇧 English: C2 (Proficiency)  
-- 🇩🇪 German: B2  
-- 📚 Attended:
-  - Unity Game Development seminars
-  - Various university-level tech seminars (e.g. cybersecurity, development)
-
-
-## 📫 Contact
-
-- GitHub: [nintaras](https://github.com/nintaras)
-- email: nikosntaras12@gmail.com
-
-> 💬 “Always learning. Always building.”
-
+### Connect
+- GitHub: [@nintaras](https://github.com/nintaras)
